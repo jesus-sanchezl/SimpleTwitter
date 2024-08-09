@@ -12,7 +12,7 @@ Es necesario tener Node.js, npm, PostMan para hacer las pruebas con la API y MyS
 
       1. Clona el repositorio
 
-             *******************************************
+            `git clone git@github.com:jesus-sanchezl/SimpleTwitter.git`
 
       2. Instala las dependencias
 
